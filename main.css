@@ -1,0 +1,49 @@
+@charset "UTF-8";
+/* CSS COMMENTS */
+a: link{
+	color: #550A21;
+	text-decoration: none;
+}
+a: hover {
+	color: #0077;
+	text-decoration: none;
+}
+
+h1{
+	color: #cc0815;
+	font-family: Gotham, "Helvetica Neue", Arial, sans-serif;
+	font-weight: normal;
+	font-size: 1.8em;
+}
+h2{
+	color: #cc0815;
+	font-family: Gotham, "Helvetica Neue", Arial, sans-serif;
+	font-weight: normal;
+	font-size: 1.4em;
+}
+
+}
+p{
+	color: #333;
+	font-family: Constantia, "Lucide Bright", "DejaVu serif", Georgia, serif;
+	line-height: 1.4;
+	font-size: .9em;
+}
+ul{
+	line-height: 1.4;	
+	color: #333;
+	font-family: Constantia, "Lucide Bright", "DejaVu serif", Georgia, serif;
+	line-height: 1.4;
+	font-size: .9em;
+}
+
+footer{
+	height: 50px;
+	padding-top: 1.5rem;
+	padding-left: 22px;
+	font-family: Helvetica, Arial, sans-serif;
+	background-color: #550A21;
+	color: white;
+	font-size: 1rem;
+	
+}
